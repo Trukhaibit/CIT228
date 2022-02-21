@@ -1,0 +1,4 @@
+In Python you can put variables into arrays.
+In Python you can import classes from other python files.
+In Python you can import text from text files.
+In Python you can expect some trial and error.

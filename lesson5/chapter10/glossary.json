@@ -1,0 +1,13 @@
+{
+    ".lower": "Convert all latin characters to lowercase",
+    "Append": "To add to the end of something",
+    "Commit": "Confirm changes to",
+    "Constant": "An unchanging variable, see variable",
+    "Dictionary": "Associative array",
+    "Key:Value Pair": "Data structure organizing method",
+    "List": "The most flexible collection data type",
+    "Print": "Display value or text in terminal",
+    "Tuple": "A fixed-value array",
+    "Variable": "An adjustable constant, see constant",
+    "open()": "opens requested file"
+}
