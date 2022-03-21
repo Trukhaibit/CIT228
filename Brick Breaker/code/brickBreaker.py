@@ -19,7 +19,7 @@ class BrickBreaker:
         size = (self.settings.screen_width, self.settings.screen_height)
         self.screen = pygame.display.set_mode(size)
         pygame.display.set_caption("Brick Breaker")
-
+ 
         self.paddle = Paddle(self)
         self.ball = Ball(self)
         self.bricks = pygame.sprite.Group()
